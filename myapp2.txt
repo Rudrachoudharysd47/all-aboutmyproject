@@ -1,0 +1,3 @@
+As a user, he may need to login/signup to app, he/she also need to search for diffrent apps, he/she also needs to edit or modify his/her profile, he/she can also rate the app and check the rewies 
+of others, as a user he/she can also logout to the app.
+
